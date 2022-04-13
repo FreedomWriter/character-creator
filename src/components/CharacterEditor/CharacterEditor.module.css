@@ -10,7 +10,6 @@
 .header {
   padding-bottom: 64px;
   width: 65%;
-  min-width: 664px;
 }
 
 .title {
@@ -30,7 +29,6 @@
   position: fixed;
   top: 128px;
   right: 0;
-  min-width: 360px;
   width: 35%;
   min-height: 500px;
 }
